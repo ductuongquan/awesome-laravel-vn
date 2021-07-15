@@ -1,10 +1,10 @@
-# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
+# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+>Danh sách tuyển chọn các bookmarks, packages, tutorials, videos và các resources tuyệt vời khác từ Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+Lấy cảm hứng từ [ductuongquan/awesome-php-vn](https://github.com/ductuongquan/awesome-php-vn)
 
-## Table of Contents
+## Mục lục
 
 - [Essentials](#essentials)
 - [Packages](#packages)
@@ -26,7 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
 
-## Essentials
+## Cơ bản cần phải biết
 
 * [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs))
 * [Laravel API Reference](https://laravel.com/api/master/)
@@ -34,7 +34,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com) ([Archive](https://laravel-news.com/archive/))
 
-## Packages
+## Packages (Các gói)
 
 * [Packagist](https://packagist.org/)
 * [Laravel Collective](https://laravelcollective.com/)
