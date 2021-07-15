@@ -3,7 +3,8 @@
 >Danh sách tuyển chọn các bookmarks, packages, tutorials, videos và các resources tuyệt vời khác từ Laravel ecosystem.
 
 Lấy cảm hứng từ [ductuongquan/awesome-php-vn](https://github.com/ductuongquan/awesome-php-vn)
-Video hướng dẫn lập trình  [Kênh gà lập trình](https://github.com/ductuongquan/awesome-php-vn)
+
+Video hướng dẫn lập trình  [Kênh gà lập trình](https://www.youtube.com/channel/UCtAuTATgl1-OYSa9TC4Lz4Q?sub_confirmation=1)
 
 ## Mục lục
 
